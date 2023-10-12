@@ -108,7 +108,7 @@ p{
 .cards{
     border: 3px solid rgb(35, 35, 35);
     height: 400px;
-    width: 223px;
+    width: 276px;
     background-color: rgb( 82, 82, 82);
     color: whitesmoke;
 }
@@ -132,9 +132,13 @@ p{
     width: 217px;
     height: 289px;
 }
-#card12{
+.cards:hover{
     height: 434px;
     border-radius: 5px;
+}
+.in:hover{
+    background-color: rgb( 35, 35, 35);
+    height: 121px;
 }
 h2{
     padding-left: 30px;
