@@ -41,7 +41,7 @@ p{
     width: 579px;
 }
 #c1:hover{
-    transform: scale(1.05);
+    /* transform: scale(1.05); */
     background-color: rgb(41, 41, 41);
 }
 
