@@ -28,7 +28,7 @@ nav{
     display: inline-block;
 }
 p{
-    padding-left: 34px;
+    /* padding-left: 34px; */
 }
 .image{
     width: 281px;
@@ -36,7 +36,7 @@ p{
     height: 200px;
 }
 #c1{
-    background-color: rgb(58, 58, 58);
+    background-color: rgb(80, 80, 80);
     border-radius: 5px;
     width: 579px;
 }
@@ -47,7 +47,7 @@ p{
 
 #c2{
     background-color: salmon;
-    width: 281px;
+    width: 28px;
     border-radius: 5px;
 }
 #c2:hover{
